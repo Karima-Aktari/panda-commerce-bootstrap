@@ -1,0 +1,27 @@
+.panda-bg-info{
+    background:#fceae8;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.price{
+    color: #ff136f;
+}
+ .categories-image{
+    width: 100px;   
+    /* w-25 bootstrap width bang important is here so categories-image width is not working */
+} 
+
+.watch-color{
+    background: #ffa500;
+}
+.bag-color{
+    background:#da70d6 ;
+}
+.shoe-color{
+    background: #0000ff;
+}
